@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    width: 100%;
+    height: 639px;
+    background-image: url("/img/grab-food.jpeg");
+   
+    background-position: center center;
+    background-repeat: no-repeat;
+    
+}
+.header-text {
+   margin-left: 12%;
+  }
+
+#section-3 {
+    width: 100%;
+    height: 392px;
+}  
+
+#section-4 {
+    width: 100%;
+    background-image: url("/img/img-sec4.jpeg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+a:hover {
+    color: green;
+}
